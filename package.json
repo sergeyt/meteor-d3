@@ -11,14 +11,13 @@
   "keywords": [
     "meteor",
     "d3",
-	"svg"
+    "svg"
   ],
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
   "contributors": [
     "Sergey Todyshev <stodyshev@gmail.com>"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-npm": "~0.0.2",
