@@ -1,0 +1,8 @@
+{
+  "name": "d3",
+  "description": "d3 - a small, free JavaScript library for manipulating documents based on data.",
+  "homepage": "https://github.com/sergeyt/meteor-d3",
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "version": "3.4.1",
+  "git": "https://github.com/sergeyt/meteor-d3.git"
+}
