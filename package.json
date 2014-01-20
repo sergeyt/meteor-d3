@@ -1,0 +1,27 @@
+{
+  "name": "meteor-d3",
+  "version": "3.4.1",
+  "description": "Meteor package for d3",
+  "license": "MIT",
+  "main": "package.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sergeyt/meteor-d3.git"
+  },
+  "keywords": [
+    "meteor",
+    "d3",
+	"svg"
+  ],
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "contributors": [
+    "Sergey Todyshev <stodyshev@gmail.com>"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7"
+  }
+}
