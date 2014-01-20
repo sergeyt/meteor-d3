@@ -1,4 +1,4 @@
-meteor-d3
-=========
+# meteor-d3
 
-d3js package for meteor
+Meteor package for [d3js](http://d3js.org/) library - a JavaScript visualization library for HTML and SVG.
+
